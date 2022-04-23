@@ -1,0 +1,6 @@
+[submodule "cartographer"]
+	path = cartographer
+	url = https://github.com/alibenD/cartographer.git
+[submodule "cartographer_ros"]
+	path = cartographer_ros
+	url = https://github.com/alibenD/cartographer_ros.git
